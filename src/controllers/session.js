@@ -6,5 +6,7 @@ module.exports = {
     //implementação
 
     //coreção do hot fix
+
+    //minha alteração
   }
 }
